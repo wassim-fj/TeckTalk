@@ -1,0 +1,38 @@
+
+
+/* +++++++++++++++++++++ COLORS */
+
+$black: #000000;
+$dark-gray: rgb(209,213,219);
+$dark-slate: #727D86;
+$bg-color: #111418;
+
+
+
+/* +++++++++++++++++++++ SPACING */
+
+$breakpoints: (
+  "xs": (
+    "min": 360px,
+    "max": 670px,
+  ),
+  "sm": (
+    "min": 640px,
+    "max": 767px,
+  ),
+  "md": (
+    "min": 768px,
+    "max": 1023px,
+  ),
+  "lg": (
+    "min": 1024px,
+    "max": 1280px,
+  ),
+  "xl": (
+    "min": 1281px,
+    "max": 1535px,
+  ),
+  "2xl": (
+    "min": 1536px,
+  ),
+);
